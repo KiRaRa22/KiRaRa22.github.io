@@ -39,6 +39,7 @@ body {
 
 min-height:300px;
 width:80%;}
+
 iframe{
 	
 	height:800px;
@@ -46,11 +47,11 @@ iframe{
 }
 .footer{
  
-
+  height: 80px;
   padding: 30px;
   text-align: center;
   background: #1abc9c;
   color: white;
-  font-size: 30px;
-
+  font-size: 15px;
+  
 }
